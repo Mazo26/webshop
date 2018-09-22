@@ -1,0 +1,8 @@
+
+RewriteEngine On
+
+RewriteRule ^korpa korpa.php
+RewriteRule ^kraj checkout.php
+
+
+
